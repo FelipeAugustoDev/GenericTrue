@@ -1,0 +1,11 @@
+C:\Users\Felipe Augusto\Pictures\VStudio\GenericTrue\bin\Debug\GenericTrue.exe.config
+C:\Users\Felipe Augusto\Pictures\VStudio\GenericTrue\bin\Debug\GenericTrue.exe
+C:\Users\Felipe Augusto\Pictures\VStudio\GenericTrue\bin\Debug\GenericTrue.pdb
+C:\Users\Felipe Augusto\Pictures\VStudio\GenericTrue\obj\Debug\GenericTrue.csproj.AssemblyReference.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\GenericTrue\obj\Debug\GenericTrue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\GenericTrue\obj\Debug\GenericTrue.Form1.resources
+C:\Users\Felipe Augusto\Pictures\VStudio\GenericTrue\obj\Debug\GenericTrue.Properties.Resources.resources
+C:\Users\Felipe Augusto\Pictures\VStudio\GenericTrue\obj\Debug\GenericTrue.csproj.GenerateResource.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\GenericTrue\obj\Debug\GenericTrue.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\GenericTrue\obj\Debug\GenericTrue.exe
+C:\Users\Felipe Augusto\Pictures\VStudio\GenericTrue\obj\Debug\GenericTrue.pdb
